@@ -1,0 +1,23 @@
+.modal-header{
+    padding: 5px 12px;
+    background-color: rgb(104, 102, 102);
+}
+.modal-title{
+    font-size: 20px;
+    color: rgb(236, 232, 232);
+}
+.modal-footer{
+    padding: 1px 12px;
+    
+}
+
+.hrclass{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+.categories-head{
+    color: teal;
+    font-weight: bold;
+    font-size: 30px;
+}
