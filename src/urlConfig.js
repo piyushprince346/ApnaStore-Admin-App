@@ -1,1 +1,3 @@
-export const api = 'http://localhost:2000';
+const baseUrl = location.hostname === "localhost" ? 'http://localhost:2000' : 'https://apnastore-backend-server.herokuapp.com'
+
+export const api = baseUrl;
